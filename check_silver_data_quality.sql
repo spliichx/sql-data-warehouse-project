@@ -157,3 +157,6 @@ WHERE cat != TRIM(cat)
 SELECT DISTINCT 
     maintenance 
 FROM silver.erp_px_cat_g1v2;
+
+
+
