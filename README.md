@@ -1,8 +1,10 @@
 # sql-data-warehouse-project
 
+
+---
+
 This project showcases a full-cycle data warehousing and analytics workflow, from ingesting raw data to producing insights that support business decisions. 
 It's designed as a portfolio piece to demonstrate modern practices in data engineering and analytical development.
----
 
 ## Solution Architecture
 
@@ -65,7 +67,7 @@ Build a robust data warehouse that integrates CRM and ERP data sources to suppor
 
 ---
 
-## Repository Structure *(Optional)*
+## Structure
 
 ```text
 sql-data-warehouse-project
