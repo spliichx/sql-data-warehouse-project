@@ -24,16 +24,6 @@ This project is suitable for those looking to demonstrate or build skills in:
 - **SQL Analytics**: Writing queries and generating insights from the Gold layer
 - **Reporting**: Preparing data for use in BI dashboards
 
----
-
-## 💡 Who This Is For
-
-This project is suitable for those looking to demonstrate or build skills in:
-
-- SQL Development
-- Data Engineering & ETL Design
-- Data Modeling
-- Modern Data Architecture Principles
 
 ---
 
